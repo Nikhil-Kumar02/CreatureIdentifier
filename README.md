@@ -10,7 +10,7 @@ CreatureIdentifier is an innovative project that utilizes computer vision and ma
   <ul>
     <li> 
       <b> Wide Range of Creatures: </b> 
-      <p>Supports identification of a broad spectrum of creatures, including animals, birds, insects, and marine life.</p>
+      <span>Supports identification of a broad spectrum of creatures, including animals, birds, insects, and marine life.</span>
     </li>
     <li><b>High Accuracy: </b>Utilizes advanced machine learning models trained on extensive datasets to ensure high accuracy in identification.</li>
     <li><b>Real-time Identification: </b>Capable of processing images and providing identification results in real-time.</li>
