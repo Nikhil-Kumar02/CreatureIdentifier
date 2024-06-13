@@ -6,6 +6,7 @@ CreatureIdentifier is an innovative project that utilizes computer vision and ma
 </div>
 
 ##
+
 ### Features
 <div align="justify">
   <ul>
@@ -35,7 +36,8 @@ CreatureIdentifier is an innovative project that utilizes computer vision and ma
     </li>
   </ul>
 </div>
-<hr />
+
+##
 
 ### Usage
 <div align="justify">
