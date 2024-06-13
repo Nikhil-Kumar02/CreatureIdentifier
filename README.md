@@ -36,7 +36,7 @@ CreatureIdentifier is an innovative project that utilizes computer vision and ma
 </div>
 <hr />
 
-<style="font-family: Times New Roman">Usage</style>
+### Usage
 <div align="justify">
 Once the application is running, users can upload images of creatures through the interface. The system will process the images and display identification results along with detailed information about the identified species.
 </div>
